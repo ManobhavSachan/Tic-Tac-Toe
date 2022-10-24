@@ -304,14 +304,18 @@ body{
     }
     .reset{
         left: 36%;
+        bottom: 22%;
         background: #5928e5;
+        border: 1px solid #5928e5;
     }
     .scorex{
-        top: 75.5%;
+        top:auto;
+        bottom: 15.5%;
         left: 10%;
     }
     .scorey{
-        top:75.5%;
+        top: auto;
+        bottom: 15.5%;
         right: 10%;
     }
     .circle{
@@ -327,7 +331,8 @@ body{
         width: 350px;
     }
     .player{
-        left: 29%;
-        right: 29%;
+        left: 28%;
+        right: 28%;
     }
+
 }
