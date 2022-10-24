@@ -297,6 +297,7 @@ body {
   background: #5928e5;
 }
 @media only screen and (max-width: 500px) {
+  .circle,
   .circley,
   .circlex {
     display: none;
@@ -325,13 +326,8 @@ body {
     bottom: 15.5%;
     right: 10%;
   }
-  .circle {
-    height: 350px;
-    width: 350px;
-  }
   .winning-message {
-    height: 350px;
-    width: 350px;
+    border-radius: 0%;
   }
   .player {
     left: 28%;
