@@ -296,24 +296,29 @@ body{
     }
     .heading{
         top: 8%;
-        left: 18%;
+        left: 13%;
     }
     .turn{
-        left: 38%;
+        left: 34%;
+        top: 18%;
     }
     .reset{
-        left: 38%;
+        left: 36%;
         background: #5928e5;
     }
-    .scorex,
+    .scorex{
+        top: 75.5%;
+        left: 10%;
+    }
     .scorey{
-        top: 75%;
+        top:75.5%;
+        right: 10%;
     }
     .circle{
-        top: 28%;
+        top: 25%;
         left: 1.5%;
-        height: 400px;
-        width: 400px;
+        height: 350px;
+        width: 350px;
     }
     .winning-message{
         top: 28%;   
@@ -322,8 +327,7 @@ body{
         width: 400px;
     }
     .player{
-        left: 30%;
-        right: 30%;
+        left: 29%;
+        right: 29%;
     }
-
 }
