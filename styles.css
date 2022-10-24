@@ -315,16 +315,16 @@ body{
         right: 10%;
     }
     .circle{
-        top: 25%;
+        top: 26%;
         left: 1.5%;
         height: 350px;
         width: 350px;
     }
     .winning-message{
-        top: 28%;   
+        top: 26%;
         left: 1.5%;
-        height: 400px;
-        width: 400px;
+        height: 350px;
+        width: 350px;
     }
     .player{
         left: 29%;
